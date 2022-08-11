@@ -240,6 +240,7 @@ input, select, textarea {
 		border-left: solid 4px;
 		font-style: normal;
 		margin: 0 0 2rem 0;
+		line-height: normal;
 		padding: 0.5rem 0 0.5rem 2rem;
 	}
 
